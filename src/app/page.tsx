@@ -122,7 +122,7 @@ export default function LandingPage() {
           products={[
             {
               id: "1",              brand: "🍷",              name: "Vermouth Clásico",              price: "5€",              rating: 5,
-              reviewCount: "150+",              imageSrc: "http://img.b2bpic.net/free-vector/summer-hand-drawn-flat-ig-post-collection_23-2149393945.jpg?_wi=2",              imageAlt: "Vermouth Clásico"
+              reviewCount: "150+",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4nbvEc5CqmjXiXOHeLdfRX3UG/uploaded-1773758721550-cz8ayjch.jpg",              imageAlt: "Vermouth Clásico"
             },
             {
               id: "2",              brand: "🍺",              name: "Pintas Bien Tiradas",              price: "3€",              rating: 5,
