@@ -40,7 +40,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplitDoubleCarousel
-          title="Donde el vermouth sabe mejor al s"
+          title="Donde el vermouth sabe mejor"
           description="Un rincón tranquilo para disfrutar de tapas auténticas, buenas pintas y tardes sin prisa."
           background={{ variant: "plain" }}
           tag="Terraza al aire libre · Ambiente tranquilo · Tapas caseras"
