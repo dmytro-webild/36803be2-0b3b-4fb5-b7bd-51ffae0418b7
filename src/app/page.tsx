@@ -97,7 +97,7 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/relaxation-space-garden-with-beds_1232-3472.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4nbvEc5CqmjXiXOHeLdfRX3UG/uploaded-1773758292238-kbr0u8fz.png"
           imageAlt="Terraza de Bar Bocamoll"
           mediaPosition="left"
           accordionItems={[
