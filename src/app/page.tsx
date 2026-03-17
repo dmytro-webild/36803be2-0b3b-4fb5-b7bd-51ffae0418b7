@@ -121,8 +121,8 @@ export default function LandingPage() {
           animationType="slide-up"
           products={[
             {
-              id: "1",              brand: "🍷",              name: "Vermouth Clásico",              price: "5€",              rating: 5,
-              reviewCount: "150+",              imageSrc: "http://img.b2bpic.net/free-photo/glass-with-fruity-drink-tray_23-2148667939.jpg?id=10073271",              imageAlt: "Vermouth Clásico"
+              id: "1",              brand: "🍷",              name: "Vermut Clásico",              price: "5€",              rating: 5,
+              reviewCount: "150+",              imageSrc: "http://img.b2bpic.net/free-photo/glass-with-fruity-drink-tray_23-2148667939.jpg?id=10073271",              imageAlt: "Vermut Clásico"
             },
             {
               id: "2",              brand: "🍺",              name: "Pintas Bien Tiradas",              price: "3€",              rating: 5,
