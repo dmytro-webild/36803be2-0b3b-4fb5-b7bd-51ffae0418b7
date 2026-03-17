@@ -51,12 +51,12 @@ export default function LandingPage() {
           ]}
           buttonAnimation="slide-up"
           leftCarouselItems={[
-            { imageSrc: "http://img.b2bpic.net/free-vector/summer-hand-drawn-flat-ig-post-collection_23-2149393945.jpg", imageAlt: "Vermouth al sol" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/still-life-delicious-fried-croquette-composition_23-2149199004.jpg", imageAlt: "Tapas de la casa" }
+            { imageSrc: "http://img.b2bpic.net/free-vector/summer-hand-drawn-flat-ig-post-collection_23-2149393945.jpg?_wi=1", imageAlt: "Vermouth al sol" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/still-life-delicious-fried-croquette-composition_23-2149199004.jpg?_wi=1", imageAlt: "Tapas de la casa" }
           ]}
           rightCarouselItems={[
             { imageSrc: "http://img.b2bpic.net/free-photo/beach-restaurant-evening_661209-253.jpg", imageAlt: "Terraza de Bar Bocamoll" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/still-life-delicious-fried-croquette-composition_23-2149199004.jpg", imageAlt: "Ambiente familiar" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/still-life-delicious-fried-croquette-composition_23-2149199004.jpg?_wi=2", imageAlt: "Ambiente familiar" }
           ]}
           carouselPosition="right"
           ariaLabel="Bar Bocamoll hero section"
@@ -122,7 +122,7 @@ export default function LandingPage() {
           products={[
             {
               id: "1",              brand: "🍷",              name: "Vermouth Clásico",              price: "5€",              rating: 5,
-              reviewCount: "150+",              imageSrc: "http://img.b2bpic.net/free-vector/summer-hand-drawn-flat-ig-post-collection_23-2149393945.jpg",              imageAlt: "Vermouth Clásico"
+              reviewCount: "150+",              imageSrc: "http://img.b2bpic.net/free-vector/summer-hand-drawn-flat-ig-post-collection_23-2149393945.jpg?_wi=2",              imageAlt: "Vermouth Clásico"
             },
             {
               id: "2",              brand: "🍺",              name: "Pintas Bien Tiradas",              price: "3€",              rating: 5,
@@ -130,7 +130,7 @@ export default function LandingPage() {
             },
             {
               id: "3",              brand: "🍟",              name: "Bravas Bocamoll",              price: "6€",              rating: 5,
-              reviewCount: "180+",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-delicious-fried-croquette-composition_23-2149199004.jpg",              imageAlt: "Bravas Bocamoll"
+              reviewCount: "180+",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-delicious-fried-croquette-composition_23-2149199004.jpg?_wi=3",              imageAlt: "Bravas Bocamoll"
             }
           ]}
           ariaLabel="Menu section"
